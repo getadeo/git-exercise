@@ -1,1 +1,1 @@
-# git-basics
+# git-exercise
